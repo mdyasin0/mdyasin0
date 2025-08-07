@@ -5,7 +5,7 @@
 ### 💻 Frontend Web Developer | MERN Stack Enthusiast
 
 ## 🧑‍💼 About Me
-Passionate and self-motivated web developer with hands-on experience in building responsive, user-friendly websites using React and modern technologies.
+I’m a passionate and self-driven web developer with a focus on the MERN stack. I love building clean, responsive, and user-friendly web applications. Currently, I'm exploring advanced React features and learning backend development with Node.js and MongoDB. I'm always excited to take on new challenges and grow as a developer.
 
 ## 🚀 Currently Working On
 - Building a tourism website using MERN stack
