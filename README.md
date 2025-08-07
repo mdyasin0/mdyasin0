@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://i.ibb.co.com/5gjd23LF/Yellow-and-White-Geometric-Business-Facebook-Cover.png)
 
 # 👋 Hi, I'm MD Yasin
 ### 💻 Frontend Web Developer | MERN Stack Enthusiast
