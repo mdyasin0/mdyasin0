@@ -19,10 +19,9 @@ I enjoy solving real-world problems through technology.
 
 ## 🚀 Currently Working On
 
-- 🔍 Exploring Next.js for server-side rendering and static site generation  
-- 🌍 Developing a tourism website using the MERN stack  
+- 🔍 Exploring Next.js 
 - 🧠 Improving my backend knowledge with MongoDB & Express  
-- 🤝 Contributing to open-source projects and learning from the community
+- 🤝  learning from the community
 
 ---
 
