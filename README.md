@@ -72,7 +72,7 @@ I enjoy solving real-world problems through technology.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak rrrrrrr" />
 </p>
 
 ---
