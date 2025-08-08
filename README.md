@@ -55,8 +55,9 @@ I enjoy solving real-world problems through technology.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white](https://www.linkedin.com/in/web-developer-mdyasin/))] 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]((https://github.com/mdyasin0))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/web-developer-mdyasin/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mdyasin0)
+
 📧 Email: mdyasin48902@gmail.com
 
 ---
