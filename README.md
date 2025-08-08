@@ -64,15 +64,15 @@ I enjoy solving real-world problems through technology.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdyasin48902&show_icons=true&theme=radical" alt="Yasin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdyasin0&show_icons=true&theme=radical" alt="Yasin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasin48902&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasin0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdyasin48902&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
