@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://ibb.co.com/JwszzF6C" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co.com/fzxCCG6Q/Yellow-and-White-Geometric-Business-Facebook-Cover.png" width="100%" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm MD Yasin
