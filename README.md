@@ -55,11 +55,22 @@ I enjoy solving real-world problems through technology.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/web-developer-mdyasin/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mdyasin0)
+<p align="center">
+  <a href="https://www.linkedin.com/in/web-developer-mdyasin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mdyasin0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://md-yasin-4054c.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4CAF50?logo=Google-Chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-📧 Email: mdyasin48902@gmail.com
-phone : 01601617682
+<p align="center">
+  📧 <a href="mailto:mdyasin48902@gmail.com">mdyasin48902@gmail.com</a>  
+  📱 01601617682
+</p>
 
 ---
 
