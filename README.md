@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/CRzDLDk/Simple-Minimalist-Real-Estate-Business-Facebook-Cover.png" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co/CRzDLDk/Simple-Minimalist-Real-Estate-Business-Facebook-Cover.png" width="100%" alt="Banner" />
 </p>
+
 
 # 👋 Hi, I'm MD Yasin
 ### 💻 Frontend Web Developer | MERN Stack Enthusiast
