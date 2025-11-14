@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/CRzDLDk/Simple-Minimalist-Real-Estate-Business-Facebook-Cover.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/mdyasin0/mdyasin0/main/Simple%20Minimalist%20Real%20Estate%20Business%20Facebook%20Cover%20.png" width="100%" alt="Banner" />
 </p>
+
 
 
 # 👋 Hi, I'm MD Yasin
