@@ -78,13 +78,7 @@ I enjoy solving real-world problems through technology.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdyasin0&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasin0&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+https://github-readme-stats-git-masterrstaa-rickstaa-github-readme-stats-team.vercel.app/api?username=mdyasin0
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak" />
