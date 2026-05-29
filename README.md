@@ -79,9 +79,6 @@ I enjoy solving real-world problems through technology.
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdyasin0&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak" />
