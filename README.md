@@ -78,14 +78,6 @@ I enjoy solving real-world problems through technology.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdyasin0&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasin0&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdyasin0&show_icons=true&theme=radical" />
@@ -95,11 +87,6 @@ I enjoy solving real-world problems through technology.
   <img src="https://streak-stats.demolab.com?user=mdyasin0&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdyasin0&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
