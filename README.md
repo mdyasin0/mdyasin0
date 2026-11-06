@@ -23,13 +23,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend-focused web developer who enjoys turning ideas into functional, responsive, and user-friendly web applications.
+I'm a frontend-focused web developer passionate about turning ideas into functional, responsive, and user-friendly web applications.
 
-My primary focus is building modern user interfaces with **JavaScript, React.js, Next.js, and Tailwind CSS**. Alongside frontend development, I have hands-on experience working with backend technologies, databases, authentication systems, and REST APIs.
+I specialize in building modern user interfaces using **TypeScript, React, Next.js, and Tailwind CSS**. I also have hands-on experience with backend technologies, databases, authentication systems, and RESTful APIs.
 
-I focus on building feature-rich applications involving complex UI interactions, API integration, authentication, and application state management. — from implementing complex user interactions and managing application state to building role-based systems and connecting frontend interfaces with backend services.
+I enjoy developing feature-rich applications that involve complex UI interactions, API integration, application state management, and role-based functionality. My goal is to build applications that are not only visually appealing but also reliable, maintainable, and user-friendly.
 
-I'm continuously improving my development skills by building practical applications, exploring modern technologies, and solving real development challenges.
+I'm continuously improving my skills through practical projects, exploring modern technologies, and solving real-world development challenges.
 
 ---
 
