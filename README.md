@@ -2,7 +2,7 @@
 
 # MD YASIN
 
-### Frontend Developer | React.js | JavaScript | Next.js
+### Frontend Developer | React | Next.js | TypeScript
 
 **Building responsive interfaces and practical web applications with modern web technologies.**
 
