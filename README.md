@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mdyasin48902@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://md-yasin-4054c.web.app/contact" alt="Email" />
   </a>
 </p>
 
@@ -188,7 +188,7 @@ I'm interested in connecting with developers, collaborating on meaningful projec
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mdyasin48902@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://md-yasin-4054c.web.app/contact" />
   </a>
 </p>
 
