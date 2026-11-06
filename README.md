@@ -1,184 +1,199 @@
+<div align="center">
 
-# MD Yasin
-### Frontend Web Developer | React & JavaScript
+# MD YASIN
 
-I'm a frontend web developer focused on building responsive, user-friendly web interfaces and practical web applications. I work with HTML, CSS, JavaScript, React, and Tailwind CSS. Through hands-on projects, I've also gained experience with Next.js, TypeScript, Node.js, Express.js, and MongoDB.
+### Frontend Developer | React.js | JavaScript | Next.js
 
-I enjoy solving practical problems, implementing complex application features, and continuously improving my development skills through real-world projects.
+**Building responsive interfaces and practical web applications with modern web technologies.**
 
----
+<p>
+  <a href="https://github.com/mdyasin0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/web-developer-mdyasin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://md-yasin-4054c.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mdyasin48902@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## Current Focus
-
-- Exploring Next.js and modern frontend development practices.
-- Strengthening backend development skills with Node.js, Express.js, and MongoDB.
-- Improving application architecture, code quality, and problem-solving skills.
-- Building practical, feature-rich web applications.
-
----
-
-## Technical Skills
-
-**Frontend Development**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js, TypeScript
-- Tailwind CSS, DaisyUI
-- Framer Motion
-
-**Backend Development**
-- Node.js, Express.js
-- Next.js Server Features
-- REST API Development
-- Socket.io
-
-**Database**
-- MongoDB
-- MySQL
-
-**Authentication & Security**
-- Firebase Authentication
-- JWT
-- NextAuth.js
-- bcryptjs
-
-**Payment & External Services**
-- Stripe
-- Cloudinary
-- Nodemailer
-
-**Tools & Libraries**
-- Git, GitHub, VS Code
-- Axios
-- React Router
-- Recharts, Chart.js
-- Monaco Editor
-- SweetAlert2, React Toastify
-- Figma
-
-**Deployment**
-- Vercel
-- Netlify
-- Firebase Hosting
+</div>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### 1. SkillBridge — Verified Developer Skill Platform
+I'm a frontend-focused web developer who enjoys turning ideas into functional, responsive, and user-friendly web applications.
 
-A full-stack platform designed to help developers demonstrate their technical abilities through practical coding challenges instead of relying solely on resume claims.
+My primary focus is building modern user interfaces with **JavaScript, React.js, Next.js, and Tailwind CSS**. Alongside frontend development, I have hands-on experience working with backend technologies, databases, authentication systems, and REST APIs.
 
-**Key Features**
-- Three role-based interfaces: Developer, Recruiter, and Admin.
-- Coding challenge submission and review workflow.
-- Integrated Monaco code editor.
-- Persistent challenge timer and automatic submission.
-- Submission review with scoring and feedback.
-- Developer ranking and badge unlocking system.
-- Skill-based developer profiles.
-- Messaging system with read/unread status, message editing, and emoji support.
-- Role-based authorization and protected application routes.
-- Relational database architecture with MySQL JOIN-based APIs.
+I enjoy working on applications that involve more than basic UI development — from implementing complex user interactions and managing application state to building role-based systems and connecting frontend interfaces with backend services.
 
-**Technology Stack**
-- Frontend: Next.js, React, TypeScript, Tailwind CSS, DaisyUI, Framer Motion.
-- Backend: Next.js Server Features, NextAuth.js, bcryptjs.
-- Database: MySQL, mysql2.
-- Libraries: Monaco Editor, Babel Standalone, React Icons, React Toastify, SweetAlert2.
+I'm continuously improving my development skills by building practical applications, exploring modern technologies, and solving real development challenges.
 
 ---
 
-### 2. DevFlow — Team Collaboration & Project Management SaaS
+## 💻 What I Can Do
 
-A full-stack SaaS application designed to help teams manage projects, assign tasks, communicate, and monitor productivity through role-based workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features**
-- Email/password and Google authentication.
-- Role-based access for Users, Managers, and Admins.
-- Project creation with admin approval.
-- Team invitations and member management.
-- Task management with Todo, Running, and Done workflows.
-- Task assignment, priority, deadlines, and submission tracking.
-- Real-time notifications using Socket.io.
-- Project-based discussion and messaging system.
-- Performance analytics, task statistics, and member rankings.
-- File uploads and premium feature restrictions.
-- Subscription plans and Stripe payment integration.
-- Admin dashboard for user, project, and email management.
-- Email notifications and deadline reminders.
-- Dark and light theme support.
+### 🎨 Frontend Development
 
-**Technology Stack**
-- Frontend: React, Vite, Tailwind CSS, DaisyUI, React Router, Axios.
-- Backend: Node.js, Express.js.
-- Database: MongoDB.
-- Authentication: Firebase, JWT.
-- Real-time: Socket.io.
-- Payment: Stripe.
-- Additional Tools: Nodemailer, Node-cron, Quill, Recharts, Framer Motion, SweetAlert2.
+- Build responsive and accessible user interfaces.
+- Develop reusable React components.
+- Create dynamic and interactive web applications.
+- Manage application state and user interactions.
+- Implement client-side routing and protected pages.
+- Build dashboards, forms, and data-driven interfaces.
+- Create animations and improve UI experiences.
+- Develop interfaces using Tailwind CSS and DaisyUI.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 3. CoinCrafter — Micro-Task & Earning Platform
+### ⚙️ Backend Development
 
-A MERN stack application where buyers create paid micro-tasks, workers complete tasks to earn coins, and administrators manage platform activities.
+- Build RESTful APIs using Node.js and Express.js.
+- Implement CRUD operations and data management.
+- Work with MongoDB and MySQL databases.
+- Develop authentication and authorization systems.
+- Implement JWT-based protected routes.
+- Handle file uploads and external service integration.
+- Build role-based application workflows.
+- Work with real-time communication using Socket.io.
 
-**Key Features**
-- Three role-based dashboards: Worker, Buyer, and Admin.
-- Email/password and Google authentication.
-- Task creation, management, and submission workflows.
-- Task review with approval and rejection functionality.
-- Worker earnings and submission tracking.
-- Coin-based payment and withdrawal system.
-- Stripe integration for purchasing coins.
-- Withdrawal requests with multiple payment methods.
-- Admin management of users, tasks, and withdrawals.
-- Dashboard statistics and performance charts.
-- Responsive interface for mobile, tablet, and desktop.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technology Stack**
-- Frontend: React.js, React Router, Tailwind CSS, DaisyUI, Vite.
-- Backend: Node.js, Express.js, REST APIs.
-- Database: MongoDB.
-- Authentication: Firebase.
-- Payment: Stripe.
-- Additional Libraries: Axios, Swiper, AOS, Chart.js, Recharts, Lucide React, React Icons, SweetAlert2.
+### 🔐 Application Features
 
----
+- Authentication and role-based access control.
+- User profiles and account management.
+- Task and project management workflows.
+- Search, filtering, and data visualization.
+- Real-time notifications and messaging.
+- Payment integration with Stripe.
+- Email notifications and scheduled tasks.
+- Form validation and user feedback systems.
 
-### 4. Legacy Vault — Historical Artifacts Management Platform
+</td>
+<td width="50%" valign="top">
 
-A web application for exploring, managing, and comparing historical artifacts. Users can contribute artifacts, interact with historical records, and test their knowledge through quizzes.
+### 🛠️ Development Practices
 
-**Key Features**
-- User authentication with Firebase and Google sign-in.
-- Browse and explore historical artifacts.
-- Add, update, and delete personal artifact entries.
-- Artifact search functionality.
-- Like and dislike interactions with synchronized counts.
-- Personal artifact management.
-- Liked artifacts collection.
-- Artifact-specific comment system with edit and delete functionality.
-- Side-by-side artifact comparison.
-- Personal comparison notes with management options.
-- Dynamic quiz questions generated from artifact data.
-- Quiz results showing correct and incorrect answers.
-- Responsive interface and animated interactions.
+- Write structured and maintainable code.
+- Organize reusable components and application logic.
+- Integrate frontend applications with backend APIs.
+- Handle loading, error, and success states.
+- Work with Git and GitHub for version control.
+- Debug application issues and improve functionality.
+- Build responsive layouts for different screen sizes.
+- Deploy applications using modern hosting platforms.
 
-**Technology Stack**
-- Frontend: React.js, React Router, Tailwind CSS, DaisyUI, Vite.
-- Backend: Node.js, Express.js, MongoDB.
-- Authentication & Security: Firebase Authentication, JWT.
-- Image Management: Cloudinary.
-- Additional Libraries: Framer Motion, Axios, Swiper, React Slick, React Icons, SweetAlert2, React Hot Toast, React Toastify, Lottie React Player.
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+## 🧰 Technical Skills
 
-I'm open to opportunities where I can contribute, learn, and grow as a web developer.
+### Frontend
 
-- **Portfolio:** https://md-yasin-4054c.web.app/
-- **LinkedIn:** https://www.linkedin.com/in/web-developer-mdyasin/
-- **GitHub:** https://github.com/mdyasin0
-- **Email:** mdyasin48902@gmail.com
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+</p>
+
+### Authentication & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-22A7F0?style=flat-square" />
+</p>
+
+### Tools & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+### Deployment & Hosting
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Aiven.io-FF4F00?style=flat-square" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Exploring Next.js and modern full-stack development.
+- Strengthening backend development and database skills.
+- Improving application architecture and code organization.
+- Building interactive, responsive, and feature-rich web applications.
+- Learning better approaches to security, performance, and maintainability.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on meaningful projects, and exploring remote opportunities where I can contribute to building useful web applications.
+
+<p align="center">
+  <a href="https://md-yasin-4054c.web.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/web-developer-mdyasin/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdyasin48902@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning continuously. Building practically. Improving consistently.</i>
+</p>
